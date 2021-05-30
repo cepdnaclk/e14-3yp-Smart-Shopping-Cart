@@ -32,15 +32,10 @@ Our target is to develop a smart trolley which satisfies all needful of customer
 
 
 
-  
 
-### Documents  
-- [Project Proposal](docs/data/documents/1.pdf)  
-- [Project Report](docs/data/documents/2.pdf)
 
 ## Links
 
-- <a href = "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart" target = "_blank">Project Repository</a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
 - <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
