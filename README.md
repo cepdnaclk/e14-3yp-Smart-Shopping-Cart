@@ -30,18 +30,7 @@ Our target is to develop a smart trolley which satisfies all needful of customer
 
 - [Intro Video](https://youtu.be/WKlyglYFiss)
 
-#### OVERVIEW
-As this project is a Unified Project, aspects related to each subjects are as follows.
 
- 
-
-CO321 - Sense bar code from product which are put in cart
-Show total bill , discounts , etc in LCD display which is attached in trolley.  
-
-CO324 - When consumer put a product in cart, product's  bar code is sent to server in real time and server replay a description of that product for displaying in LCD.
-Offers and other details are also come from server to cart in real time.  
-
-CO325 - There will be many carts in a super market. every cart has it's own unique private key and communication between server and cart is fully encrypted.
 
   
 
