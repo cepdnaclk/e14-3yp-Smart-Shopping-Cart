@@ -18,13 +18,9 @@ title: Smart Shopping Cart
 -  E/14/216, MAJURAGEERTHAN A., [e14216@eng.pdn.ac.lk](mailto:e14216@eng.pdn.ac.lk)
 -  E/14/311, SANKEERTHAN K., [e14311@eng.pdn.ac.lk](mailto:e14311@eng.pdn.ac.lk)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Solution Architecture](#solution-architecture )
-3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Links](#links)
 
----
+
+
 
 ## Introduction
 
@@ -47,29 +43,7 @@ Offers and other details are also come from server to cart in real time.
 
 CO325 - There will be many carts in a super market. every cart has it's own unique private key and communication between server and cart is fully encrypted.
 
-
-## Solution Architecture
-
-#### Outline of the plan
- 
-- Scan the bar code of product.(customers will do it themself)
-
-- Show price , offer details , total bills , reminders, paths , etc in the LCD display which is attached in the cart.
-
-- All data are saved in branch server.
-
-- If user accept to buy , then it will be added to user’s total bill.
-
-- User can pay bill when leaving (Bill is already calculated in the cart).
-
-## Hardware and Software Designs
-
-#### RFID  Reader instead of Barcode Scanner
   
-Intial Project Plan we decided to use bracode to identify product,Now we have planned to replace barcode , continue project using RFID reader and tag attached Products.RFID has lot of issuses such as working in presence of electric field but some cases  it is good to handle some situations, like counting and detecting no things in Shopping cart. It can read product id and product exp date and name.  
-
-![RFID](docs/data/images/1.jpeg)  
-![RFID](docs/data/images/2.jpeg)  
 
 ### Documents  
 - [Project Proposal](docs/data/documents/1.pdf)  
