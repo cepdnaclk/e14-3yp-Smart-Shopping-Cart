@@ -1,41 +1,27 @@
 {
-    "title": "This is the title of the project",
+    "title": "Smart Shopping Cart",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "ANOJAN S.",
+            "email": "e14017@eng.pdn.ac.lk",
+            "eNumber": "E/14/017"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "MAJURAGEERTHAN A.",
+            "email": "e14216@eng.pdn.ac.lk",
+            "eNumber": "E/14/216"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "SANKEERTHAN K.",
+            "email": "e14311@eng.pdn.ac.lk",
+            "eNumber": "E/14/311"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Web", "Embedded Systems"]
+    "tags": []
 }
