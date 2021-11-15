@@ -3,24 +3,24 @@
     "team": [
         {
             "name": "ANOJAN S.",
-            "email": "e14017@eng.pdn.ac.lk",
+            "email": "e14017@ce.pdn.ac.lk",
             "eNumber": "E/14/017"
         },
         {
             "name": "MAJURAGEERTHAN A.",
-            "email": "e14216@eng.pdn.ac.lk",
+            "email": "e14216@ce.pdn.ac.lk",
             "eNumber": "E/14/216"
         },
         {
             "name": "SANKEERTHAN K.",
-            "email": "e14311@eng.pdn.ac.lk",
+            "email": "e14311@ce.pdn.ac.lk",
             "eNumber": "E/14/311"
         }
     ],
     "supervisors": [
         {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurunawinne@eng.pdn.ac.lk"
+            "email": "isurunawinne@ce.pdn.ac.lk"
         }
     ],
     "tags": []
